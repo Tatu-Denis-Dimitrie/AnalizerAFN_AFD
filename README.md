@@ -6,7 +6,7 @@ This project implements a Deterministic Finite Automaton (DFA) and a Non-Determi
 ## 🛠️ Features
 - **Read expression from file** 📝
 - **Convert expression to Polish notation (postfix)** ➡️
-- **Generate NFA from expression** 🔄
+- **Generate NFA from the given expression** 🔄
 - **Generate DFA from NFA** 🔄
 - **Verify if a word is accepted by the automaton** 🔍
 
